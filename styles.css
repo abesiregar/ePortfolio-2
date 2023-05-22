@@ -256,7 +256,7 @@ main {
 .about__desc {
   font-size: 1rem;
   max-width: 600px;
-  text-indent: 30px;
+  font-style: italic;
 }
 
 .about__desc,
